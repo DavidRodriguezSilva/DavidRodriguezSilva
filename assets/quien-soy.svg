@@ -1,14 +1,57 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 270" width="1200" height="270" role="img" aria-label="Quién soy: Drack, ingeniero electrónico y desarrollador web en Colombia. Construyo herramientas offline.">
-<rect width="1200" height="270" rx="14" fill="#080f0d"/>
-<rect x="0.5" y="0.5" width="1199" height="269" rx="13.5" fill="none" stroke="#c9c3f5" stroke-opacity=".22"/>
-<g font-family="ui-monospace,'JetBrains Mono','IBM Plex Mono',Menlo,Consolas,monospace" font-size="21">
-  <text x="48" y="62" fill="#6ddda1">drack@dark4rest</text><text x="228" y="62" fill="#eef1ec" fill-opacity=".55">:~$</text><text x="278" y="62" fill="#eef1ec">whoami</text>
-  <text x="48" y="112" fill="#e8b14b">nombre</text><text x="228" y="112" fill="#eef1ec">Drack</text>
-  <text x="48" y="146" fill="#e8b14b">formación</text><text x="228" y="146" fill="#eef1ec">ingeniero electrónico</text>
-  <text x="48" y="180" fill="#e8b14b">oficio</text><text x="228" y="180" fill="#eef1ec">desarrollador web</text>
-  <text x="48" y="214" fill="#e8b14b">lugar</text><text x="228" y="214" fill="#eef1ec">Colombia</text>
-  <text x="48" y="248" fill="#e8b14b">construyo</text><text x="228" y="248" fill="#eef1ec">herramientas offline</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 626" width="1200" height="626" role="img" aria-label="Quién soy. David Rodriguez, ingeniero de desarrollo y electrónico. América, Bogotá D.C. Primero, desarrollo. Misión: quitarle fricción a la vida de personas y empresas con herramientas simples que cumplen lo que prometen. Experiencia: apps web y de escritorio con React, Node.js y TypeScript; APIs en AWS Lambda, MySQL y pruebas automatizadas. Segundo, electrónica. Misión: llevar el software al mundo físico: medir, automatizar y controlar sistemas reales. Experiencia: circuitos y PCB en Proteus y EasyEDA; microcontroladores con Arduino y MPLAB; PLC Siemens y neumática; redes con Cisco y seguridad con OWASP.">
+<defs>
+  <linearGradient id="fondo" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0e1916"/><stop offset="1" stop-color="#080f0d"/></linearGradient>
+  <filter id="brillo" x="-3" y="-3" width="7" height="7"><feGaussianBlur stdDeviation="2.4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="626" rx="14" fill="url(#fondo)"/>
+<rect x="0.5" y="0.5" width="1199" height="625" rx="13.5" fill="none" stroke="#c9c3f5" stroke-opacity=".22"/>
+
+<!-- barra de ventana: los tres colores de la familia -->
+<path d="M0.5,14 a13.5,13.5 0 0 1 13.5,-13.5 H1186 a13.5,13.5 0 0 1 13.5,13.5 V46 H0.5 Z" fill="#c9c3f5" fill-opacity=".06"/>
+<line x1="0" y1="46" x2="1200" y2="46" stroke="#c9c3f5" stroke-opacity=".18"/>
+<circle cx="30" cy="23" r="6" fill="#6ddda1"/><circle cx="52" cy="23" r="6" fill="#c9c3f5"/><circle cx="74" cy="23" r="6" fill="#e8b14b"/>
+<text x="600" y="28" text-anchor="middle" fill="#eef1ec" fill-opacity=".5" font-family="ui-monospace,'JetBrains Mono','IBM Plex Mono',Menlo,Consolas,monospace" font-size="14">david@dark4rest: ~</text>
+
+<!-- bosque al fondo, a la derecha -->
+<g fill="#15241f" opacity=".9">
+  <path d="M1010,626 L1040,506 L1070,626 Z M1050,626 L1090,468 L1130,626 Z M1100,626 L1135,526 L1170,626 Z M980,626 L1005,546 L1030,626 Z"/>
 </g>
-<g fill="#6ddda1"><circle cx="1090" cy="64" r="2.6" opacity=".9"/><circle cx="1128" cy="104" r="2" opacity=".6"/><circle cx="1062" cy="132" r="1.8" opacity=".45"/></g>
-<g fill="#c9c3f5"><circle cx="1110" cy="176" r="2.2" opacity=".7"/><circle cx="1148" cy="220" r="1.8" opacity=".4"/></g>
+<g fill="#1d3230" opacity=".7">
+  <path d="M1130,626 L1165,491 L1200,626 Z M1070,626 L1100,556 L1130,626 Z"/>
+</g>
+
+<g font-family="ui-monospace,'JetBrains Mono','IBM Plex Mono',Menlo,Consolas,monospace" font-size="19">
+  <text x="40" y="92" fill="#6ddda1">david@dark4rest</text><text x="215" y="92" fill="#eef1ec" fill-opacity=".55">:~$</text><text x="262" y="92" fill="#eef1ec">cat identidad.yaml</text>
+
+  <g fill="#eef1ec" fill-opacity=".35"><text x="40" y="136">├─</text><text x="40" y="170">├─</text><text x="40" y="204">├─</text><text x="68" y="238">├─</text><text x="40" y="238">│</text><text x="68" y="272">│</text><text x="40" y="272">│</text><text x="68" y="306">╰─</text><text x="40" y="306">│</text><text x="40" y="340">│</text><text x="40" y="374">├─</text><text x="68" y="408">├─</text><text x="40" y="408">│</text><text x="68" y="442">│</text><text x="40" y="442">│</text><text x="68" y="476">╰─</text><text x="40" y="476">│</text><text x="40" y="510">│</text><text x="40" y="544">│</text><text x="40" y="578">╰─</text></g>
+
+  <text x="82" y="136" fill="#e8b14b">identidad</text>
+  <text x="300" y="136" fill="#eef1ec">David Rodriguez, ingeniero de desarrollo y electrónico</text>
+  <text x="82" y="170" fill="#e8b14b">ubicación</text>
+  <text x="300" y="170" fill="#eef1ec">América, Bogotá D.C.</text>
+  <text x="82" y="204" fill="#e8b14b">1ro desarrollo</text>
+  <text x="112" y="238" fill="#c9c3f5">misión</text>
+  <text x="300" y="238" fill="#6ddda1">Quitarle fricción a la vida de personas y empresas</text>
+  <text x="300" y="272" fill="#6ddda1">con herramientas simples que cumplen lo que prometen.</text>
+  <text x="112" y="306" fill="#c9c3f5">experiencia</text>
+  <text x="300" y="306" fill="#eef1ec">Apps web y de escritorio con React, Node.js y TypeScript;</text>
+  <text x="300" y="340" fill="#eef1ec">APIs en AWS Lambda, MySQL y pruebas automatizadas.</text>
+  <text x="82" y="374" fill="#e8b14b">2do electrónica</text>
+  <text x="112" y="408" fill="#c9c3f5">misión</text>
+  <text x="300" y="408" fill="#6ddda1">Llevar el software al mundo físico: medir, automatizar</text>
+  <text x="300" y="442" fill="#6ddda1">y controlar sistemas reales.</text>
+  <text x="112" y="476" fill="#c9c3f5">experiencia</text>
+  <text x="300" y="476" fill="#eef1ec">Circuitos y PCB en Proteus y EasyEDA; microcontroladores</text>
+  <text x="300" y="510" fill="#eef1ec">con Arduino y MPLAB; PLC Siemens y neumática;</text>
+  <text x="300" y="544" fill="#eef1ec">redes con Cisco y seguridad con OWASP.</text>
+  <text x="82" y="578" fill="#e8b14b">estado</text>
+  <text x="300" y="578" fill="#eef1ec">construyendo herramientas offline</text>
+  <rect x="684" y="563" width="11" height="19" fill="#6ddda1" opacity=".85"/>
+</g>
+
+<g filter="url(#brillo)">
+  <circle cx="930" cy="130" r="2.4" fill="#6ddda1" opacity=".9"/><circle cx="985" cy="196" r="2.2" fill="#e8b14b" opacity=".8"/>
+  <circle cx="1060" cy="152" r="2.4" fill="#c9c3f5" opacity=".85"/><circle cx="1140" cy="214" r="2.2" fill="#6ddda1" opacity=".7"/>
+  <circle cx="1110" cy="108" r="2" fill="#e8b14b" opacity=".7"/><circle cx="1015" cy="248" r="2" fill="#c9c3f5" opacity=".6"/>
+</g>
 </svg>
