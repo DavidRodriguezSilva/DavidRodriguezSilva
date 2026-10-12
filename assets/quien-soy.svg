@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 270" width="1200" height="270" role="img" aria-label="Quién soy: Drack, ingeniero electrónico y desarrollador web en Colombia. Construyo herramientas offline.">
+<rect width="1200" height="270" rx="14" fill="#080f0d"/>
+<rect x="0.5" y="0.5" width="1199" height="269" rx="13.5" fill="none" stroke="#c9c3f5" stroke-opacity=".22"/>
+<g font-family="ui-monospace,'JetBrains Mono','IBM Plex Mono',Menlo,Consolas,monospace" font-size="21">
+  <text x="48" y="62" fill="#6ddda1">drack@dark4rest</text><text x="228" y="62" fill="#eef1ec" fill-opacity=".55">:~$</text><text x="278" y="62" fill="#eef1ec">whoami</text>
+  <text x="48" y="112" fill="#e8b14b">nombre</text><text x="228" y="112" fill="#eef1ec">Drack</text>
+  <text x="48" y="146" fill="#e8b14b">formación</text><text x="228" y="146" fill="#eef1ec">ingeniero electrónico</text>
+  <text x="48" y="180" fill="#e8b14b">oficio</text><text x="228" y="180" fill="#eef1ec">desarrollador web</text>
+  <text x="48" y="214" fill="#e8b14b">lugar</text><text x="228" y="214" fill="#eef1ec">Colombia</text>
+  <text x="48" y="248" fill="#e8b14b">construyo</text><text x="228" y="248" fill="#eef1ec">herramientas offline</text>
+</g>
+<g fill="#6ddda1"><circle cx="1090" cy="64" r="2.6" opacity=".9"/><circle cx="1128" cy="104" r="2" opacity=".6"/><circle cx="1062" cy="132" r="1.8" opacity=".45"/></g>
+<g fill="#c9c3f5"><circle cx="1110" cy="176" r="2.2" opacity=".7"/><circle cx="1148" cy="220" r="1.8" opacity=".4"/></g>
+</svg>
